@@ -1,0 +1,46 @@
+
+$backBg: #3f4142;
+$topBg: #008cff;
+$rightBg: #ffffff;
+$leftBg: #f87801;
+* {
+  font-family: monospace;
+  background-color: $backBg;
+  margin-left: 20px;
+}
+
+.app {
+    color: $rightBg;
+    margin-left: 125px;
+    margin-top:50px;
+}
+
+.input {
+    background-color: $rightBg;
+    margin-left: 100px;
+}
+
+.click {
+    color: $rightBg;
+}
+
+.left {
+    font-weight: 800;
+    font-size: 1.6rem;
+    color: $leftBg;
+    margin-left: 100px;
+}
+
+.top {
+    
+    font-size: 1.8rem;
+    color: $topBg;
+    margin-left: 100px;
+}
+
+.right {
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: $rightBg;
+    margin-left: 120px;
+}
